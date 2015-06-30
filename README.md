@@ -3,7 +3,7 @@
 
 :man: 
 
-::notes:::headphones:
+:notes::headphones:
 
 :eyes::stars::cloud:
 
