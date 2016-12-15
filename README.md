@@ -95,7 +95,7 @@
 
 :cocktail::pill::question:
 
-:running::toilet::collision::couplekiss::eyes::rage::rage: :toilet::question:
+:running::toilet::collision::kiss::eyes::rage::rage: :toilet::question:
 
 :ear::cat::musical_note: :exclamation:
 
