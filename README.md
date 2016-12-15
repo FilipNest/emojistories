@@ -23,7 +23,7 @@
 
 :taxi: :high_heel: :high_heel::woman: :eyes::arrow_up::full_moon::satisfied: :arrow_left::eyes: :notes::house::notes:
 
-:man::arrow_right::eyes::couplekiss::cop::couple::eyes::couplekiss:
+:man::arrow_right::eyes::kiss::cop::couple::eyes::kiss:
 
 :man: :headphones::mute:
 
@@ -37,9 +37,9 @@
 
 :couple::couple::two_women_holding_hands::couple::two_men_holding_hands: :notes::notes::house::notes::notes:
 
-:man: :couplekiss::couple::couple::two_women_holding_hands::couple::two_men_holding_hands: :notes::notes::house::notes::notes: :high_heel::woman::question:
+:man: :kiss::couple::couple::two_women_holding_hands::couple::two_men_holding_hands: :notes::notes::house::notes::notes: :high_heel::woman::question:
 
-:couplekiss: :ticket: :performing_arts:
+:kiss: :ticket: :performing_arts:
 :man: :information_desk_person: :open_hands: :ticket:
 
 :notes::notes::notes::notes::notes::notes::dancer::couple::two_women_holding_hands::dancers::microphone::guitar::notes:
